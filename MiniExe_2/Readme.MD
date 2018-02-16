@@ -5,3 +5,4 @@ I used a lot of variations to get the heads moving. I wanted to add more annoyin
  Goriunova's describe the notion of fun in parts of her text as purposeless. This is very much what my program represents. It also confronts the aspect of programming that is should be rational and progressive. This is a program which seems to have no purpose other than annoy, but it might just be adding to critical thinking about the software as only pragmatic.
 
 https://rawgit.com/johanneswigh/-miniex/master/MiniExe_2/empty-example/index.html
+![alt tekst](https://github.com/johanneswigh/-miniex/blob/master/MiniExe_2/Mini_ex2.png?raw=true)
