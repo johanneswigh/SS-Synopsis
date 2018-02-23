@@ -4,4 +4,5 @@ In this project, I tried to create the worst throbber and loading screen possibl
 
 The throbber Is a solution which has nothing to do with the actual loading on a page. It us only designed to please the user. The throbber gives a sense of working from the computer. We believe the computer is processing data, and the throbber is the visualisation of this. It’s become important for software to use this, because we are so used to it. If a throbber is missing from loading software we immediately suspect it is not working, or has crashed. That is why a throbber and of course a proper one Is necessary. 
 
-https://rawigit.com/johanneswigh/-miniex/master/MiniExe_3/empty-example/index.html
+https://rawgit.com/johanneswigh/-miniex/master/MiniExe_3/empty-example/index.html
+
