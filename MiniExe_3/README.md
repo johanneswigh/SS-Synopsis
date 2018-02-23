@@ -6,3 +6,5 @@ The throbber Is a solution which has nothing to do with the actual loading on a 
 
 https://rawgit.com/johanneswigh/-miniex/master/MiniExe_3/empty-example/index.html
 
+
+![alt tekst](https://github.com/johanneswigh/-miniex/blob/master/MiniExe_3/WAIT.png?raw=true)
