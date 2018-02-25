@@ -4,8 +4,8 @@ var words = ['82%', '19%', '99%', '22%', '39%', '13%', '1%', '77%', '63%'];
 var words = random(words);
 var sound;
 
-function preload(){
-  sound = loadSound('Sound.wav');
+//function preload(){
+ // sound = loadSound('Sound.wav');
 }
  function setup () {
    createCanvas(800, 577);
