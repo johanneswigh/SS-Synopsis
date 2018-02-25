@@ -5,7 +5,7 @@ var words = random(words);
 var sound;
 
 function preload(){
-  sound = loadSound('sound.wav');
+  sound = loadSound('Sound.wav');
 }
  function setup () {
    createCanvas(800, 577);
