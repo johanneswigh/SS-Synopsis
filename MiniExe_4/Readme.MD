@@ -7,3 +7,4 @@ The program gives me a way of visualize the data transfer which happens constant
 Returning to comment on my program I ran into some difficulties. I couldn’t figure out a way to the canvas a maximum x-value, so it keeps growing. I also wanted to add more lines of ones and zeroes and making them endless, but it was slowing the program down a lot. Overall I’m still satisfied with the program which stills gets my point across even with a few flaws. 
 
 
+https://rawgit.com/johanneswigh/-miniex/master/MiniExe_4/empty-example/index.html
