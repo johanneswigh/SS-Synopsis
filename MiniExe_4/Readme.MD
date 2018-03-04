@@ -8,3 +8,5 @@ Returning to comment on my program I ran into some difficulties. I couldn’t fi
 
 
 https://rawgit.com/johanneswigh/-miniex/master/MiniExe_4/empty-example/index.html
+
+![alt tekst](https://github.com/johanneswigh/-miniex/blob/master/MiniExe_4/Screen%20Shot%202018-03-04%20at%2020.16.01.png?raw=true)
