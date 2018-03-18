@@ -11,3 +11,4 @@ I ran into some technical issues. I managed getting the sun go up and down and c
 
 
 https://rawgit.com/johanneswigh/-miniex/master/MiniExe_6/empty-example/index.html
+![alt tekst](https://github.com/johanneswigh/-miniex/blob/master/MiniExe_6/Screen%20Shot%202018-03-18%20at%2014.07.17.png?raw=true)
