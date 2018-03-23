@@ -10,3 +10,5 @@ This programs intended use was to generate Haiku. We found a lot of famous haiku
 We recomend to spend at least a minute to se the different poems created.
 
 We wanted to implement sound which would read the poem which was generated, but after an incredible time trying to do this, we finally gave up. We have left the code in the program, if the reader of this ReadME wants to see where it went wrong. Everyone is welcome to have a go at solving the problem. All sound files are available in the "quotes" folder. 
+
+The program itself isn't more that a running program. It is therfore very one-dimensional. An actually reading of our code would seem poinitless as it isn't designed this way. If we were to design to code in a specific way it will add an extra dimension to the code, were we could acutally express how we fell and think with the program. Vocable code address this by saying ''it has speechlike qualities''. By this they mean coding is multi-dimensional and that the code output isn't the only expression, but the code is also an expression.
